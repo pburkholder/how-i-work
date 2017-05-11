@@ -24,8 +24,15 @@ I have too many tools that I might use on a daily basis:
 - Dashlane
 - Facebook
 - Google Contacts
-- Slack
+- Slack (work + Lisa, DCTech)
 - RescueTime
+- iPhone Reminders
+
+
+Kids/Family
+- Myschoolapp.com
+- Paper calendar
+
 
 
 Financial
