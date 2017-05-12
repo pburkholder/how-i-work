@@ -2,7 +2,9 @@
 
 ## Work
 
-### A typical day
+### Starting the Day
+
+Ideally, I have 2 hours free at the start of the day to **Just Work**, then I orient myself to the rest of the day:
 
 - Calendar in Leuchtturm
   - Update from Google Cal
@@ -18,6 +20,10 @@
     - `[_X_]` Done
     
  ... more to come
+ 
+### Ending the day
+
+I'm bad at this. I often just push to InboxZeor and SlackZero and walk away.
     
 ### Possible changes
 - Tee up one deep work item the previous day to work on first
