@@ -2,6 +2,29 @@
 
 ## Work
 
+### A typical day
+
+- Calendar in Leuchtturm
+  - Update from Google Cal
+- Check Toggl for status/corrections
+- Jot into Leuchtturm:
+  - Mantras & Habits
+  - 18F block
+  - Professional block
+  - Me & Family block
+  - Jot code:
+    - ` _1_ ` ToDo, with priority
+    - `[_1_]` In progress
+    - `[_X_]` Done
+    
+ ... more to come
+    
+### Possible changes
+- Tee up one deep work item the previous day to work on first
+- Work with SLH to get alternate morning head start days
+- Track time again with RescueTime
+- Schedule time for email catch up.
+
 ## Professional
 
 ## Personal
