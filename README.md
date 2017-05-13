@@ -26,6 +26,7 @@ External habits:
 - Use Toggl to _know what I'm doing_
 - Use Pomodoro so I will periodically review what I'm doing
 - Use Alfred timers for tasks that could turn into yak-shaves
+- If it's not on your list, don't do it
  ... more to come
  
 Internal habits:
