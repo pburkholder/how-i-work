@@ -41,6 +41,15 @@ Mindful practice habits:
 - listen (music, murmur)
 - relax and/or move
 - mantra
+
+### Work
+
+1. Mark item as "in progress" (on board, or in notebook)
+2. Start toggl with "Item (time estimate)"
+3. Jot someplace (tktk) what the definition of done is.
+4. Work.
+5. Mark as done
+6. Celebrate
  
 ### Ending the day
 
