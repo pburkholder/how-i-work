@@ -6,6 +6,7 @@
 
 Ideally, I have 2 hours free at the start of the day to **Just Work**, then I orient myself to the rest of the day:
 
+- **Centering/mindfulness exercise**
 - Calendar in Leuchtturm
   - Update from Google Cal
 - Check Toggl for status/corrections
@@ -15,21 +16,27 @@ Ideally, I have 2 hours free at the start of the day to **Just Work**, then I or
   - Professional block
   - Me & Family block
   - Jot code:
-    - ` _1_ ` ToDo, with priority
+    - `__1__` ToDo, with priority
     - `[_1_]` In progress
     - `[_X_]` Done
     
     
 ### Habits
 
-External habits:
+#### Current Habits to build (WIP: 2)
+
+1. \#placematdiet
+2. YNABing
+
+
+Tooling habits:
 - Use Toggl to _know what I'm doing_
 - Use Pomodoro so I will periodically review what I'm doing
 - Use Alfred timers for tasks that could turn into yak-shaves
 - If it's not on your list, don't do it
  ... more to come
  
-Internal habits:
+Mindful practice habits:
 - breathe
 - listen (music, murmur)
 - relax and/or move
