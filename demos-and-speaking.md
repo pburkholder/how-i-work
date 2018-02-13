@@ -10,6 +10,7 @@ I do demos and workshops for work. They usually go well, sometimes they haven't.
 1. If something's taking a long time, explain why. Be okay with it, and they will be too. Don't try to start a new thread; it'll just confuse folks.
 1. Hofstader's law is doubly true for setting up videoconferencing. Allow at least 10 minutes, and if things take longer, don't let that rush you
 1. Always answer questions from first principles. Be interested in what you're saying, and they will be too.
+1. Breathe.
 
 # Tips for better content
 
