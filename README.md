@@ -2,26 +2,56 @@
 
 ## Work
 
-### Starting the Day
+### How I work: 2018-08-28 
 
-Ideally, I have 2 hours free at the start of the day to **Just Work**, then I orient myself to the rest of the day:
+- Google Calendar - Duh! and the extension
+- Trello, esp [PeterB 18F](https://trello.com/b/xlSL7tfN/peterbs-18f) with Trellis to hide columns I don't need
+- Toggl - what I'm doing now 'Updating how I work (20m)'
+  - I rely on this a lot to see how mch I'm actually working
+- RescueTime - to dbl check on Toggl.
 
-- **Centering/mindfulness exercise**
-- Calendar in Leuchtturm
-  - Update from Google Cal
-- Check Toggl for status/corrections
-- Jot into Leuchtturm:
-  - Mantras & Habits
-  - 18F block
-  - Professional block
-  - Me & Family block
-  - Jot code:
-    - `__1__` ToDo, with priority
-    - `[_1_]` In progress
-    - `[_X_]` Done
+I'm using paper and whiteboards less than I expected. Mostly for cost and portability.
+
+Goals:
+- More deep work periods
+- More work brought to completion
+- More concrete work I can share with future employers -- that establishes me as a leader
+- More empathy and kindness.
+
+
+### How I intended to work: 2017-06-02
+
+The quote below describes how I was intending to work as of 2017-06-02. I never did work this way, much as I may have been inspired to by the Deep Work, by Cal Newport.
+
+> ### Starting the Day
+> 
+> Ideally, I have 2 hours free at the start of the day to **Just Work**, then I orient myself to the rest of the day:
+> 
+> - **Centering/mindfulness exercise**
+>- Calendar in Leuchtturm
+>  - Update from Google Cal
+>- Check Toggl for status/corrections
+>- Jot into Leuchtturm:
+>  - Mantras & Habits
+>  - 18F block
+>  - Professional block
+>  - Me & Family block
+>  - Jot code:
+>    - `__1__` ToDo, with priority
+>    - `[_1_]` In progress
+>    - `[_X_]` Done
     
-    
-### Habits
+## Habits
+
+### Habit intentions of 2018-08-28 
+
+- Review this weekly
+- Stop listening to most podcasts. Instead, listen to music and literature. 
+  - Why? Because the news and yammering is making me cross and anxious. And such news can be better absorbed by reading. 
+  - Listening to music is the only way to engage with it
+  - Listening to literature improves how I speak
+
+### Habits of 2017-06-02
 
 #### Current Habits to build (WIP: 2)
 
